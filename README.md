@@ -1,104 +1,71 @@
 # <h1 align="center">Hi 👋, I'm Bhoomika S Shetty</h1>
-<h3 align="center">🐍 Python-First AI Engineer | 🤖 LLM & RAG Builder | 🌐 Full Stack Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhoomiBliss&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="BhoomiBliss" />
+  <img src="https://img.shields.io/github/followers/BhoomiBliss?label=FOLLOW&style=social" alt="Follow" />
+</p>
+
+<h3 align="center">🐍 Python-First AI Engineer | 🤖 RAG & LLM Architect | 🌐 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhoomiBliss&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <i>Passionate about bridging the gap between hardware intelligence and cloud-scale AI.</i>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Information Science Engineering Student  
-- 🐍 Python is my primary language  
-- 🤖 Building production-grade AI systems  
-- 🧠 Specialized in RAG & LangChain  
-- 🌍 Full Stack + AI Integration Developer  
-
-I build systems that combine:
-
-> **AI + Backend Engineering + Real-World Impact**
+### 🚀 Quick Bit About Me
+- 🎓 **Education:** Information Science Engineering Student.
+- 🐍 **Focus:** Python is my native tongue; building production-grade AI is my mission.
+- 🧠 **Specialization:** Advanced RAG (Retrieval Augmented Generation) & LangChain workflows.
+- 🌍 **Goal:** To engineer AI systems that solve real-world safety and accessibility problems.
 
 ---
 
-## 🧠 AI Engineering Stack
+### 🛠️ Technical Arsenal
 
-- 🐍 Python (Core)
-- 🔗 LangChain
-- 🧠 RAG Architecture
-- 🤖 OpenAI & Gemini APIs
-- 📊 Vector Databases
-- 🛠 Prompt Engineering
-- 🚀 LLM Application Deployment
-
----
-
-## 🌐 Full Stack Stack
-
-- ⚛ React.js
-- 🟢 Node.js
-- 🚂 Express.js
-- 🔐 JWT Authentication
-- 🗄 MongoDB
-- 🐘 PostgreSQL
-- 🔥 Supabase
-- 🔥 Firebase
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **AI / LLM Stack** | ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge) |
+| **Web Stack** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Cloud & IoT** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
 
 ---
 
-## 📡 IoT Systems
+### 🔥 Featured Engineering Works
 
-- Raspberry Pi
-- GSM & GPS Modules
-- Sensor Integration
-- Real-time Alert Systems
-
----
-
-## 🔥 Featured Projects
-
-### 🛡 Women Safety Device
-IoT-based emergency wearable using Raspberry Pi  
-GPS + GSM + Image Capture + Cloud Monitoring  
-
-### 🧠 Smrithi AI
-Perplexity-style RAG system using LangChain  
-Knowledge-grounded AI responses  
-
-### 🤖 AI Doctor Assistant
-LLM-powered conversational healthcare assistant  
-
-### 🖱 Virtual Mouse
-Computer Vision based hand gesture control  
+- **🛡️ Women Safety Device (IoT + AI):** A wearable safety band built on **Raspberry Pi**. Integrates **GPS/GSM** for real-time tracking, automatic **Image Capture** for evidence, and **Gemini AI** for voice-triggered emergency alerts.
+- **🧠 Smrithi AI (RAG Platform):** A Perplexity-style AI Answer Engine. Uses **LangChain** and **Vector Databases** to provide context-aware, referenced answers from Indic knowledge texts.
+- **🤖 AI Doctor Assistant:** A conversational LLM agent designed for preliminary healthcare diagnostics and real-time medical consultation.
+- **🖱️ Virtual Mouse:** Utilizing **OpenCV** and Python to control desktop navigation through AI-powered hand gesture recognition.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhoomiBliss&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhoomiBliss&theme=tokyo-night)
-
----
-
-## 🧬 Developer Philosophy
-
+### 🧬 Developer Persona
 ```python
-class AIEngineer:
+class Bhoomika:
     def __init__(self):
-        self.name = "Bhoomika S Shetty"
-        self.primary_language = "Python"
         self.role = "AI Engineer"
+        self.languages = ["Python", "JavaScript"]
+        self.stack = {
+            "AI": ["LangChain", "RAG", "LLMs"],
+            "Web": ["MERN", "Supabase"],
+            "Hardware": ["Raspberry Pi", "IoT"]
+        }
 
-    def build(self):
-        return "Design. Engineer. Deploy. Repeat 🚀"
+    def mission(self):
+        return "Design. Engineer. Deploy. Impact. 🚀"
 
-me = AIEngineer()
-print(me.build())
+print(Bhoomika().mission())
