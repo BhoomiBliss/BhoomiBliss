@@ -83,9 +83,9 @@ AI + Backend Engineering + Real-World Impact
 ---
 # 📊 GitHub Stats
 
-![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 ---
 
