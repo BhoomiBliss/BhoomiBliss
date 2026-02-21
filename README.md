@@ -1,87 +1,79 @@
-# 👋 Hi, I'm Bhoomika S Shetty
+# <h1 align="center">Hi 👋, I'm Bhoomika S Shetty</h1>
+<h3 align="center">🐍 Python-First AI Engineer | 🤖 LLM & RAG Builder | 🌐 Full Stack Developer</h3>
 
-🐍 Python Developer | 🤖 AI Engineer | 🌐 Full Stack Developer  
-🚀 Building intelligent systems using AI, LLMs, and scalable backend architectures  
-
----
-
-# 🧠 AI Engineer Focus
-
-I specialize in building **production-ready AI systems** using:
-
-- 🐍 Python (Primary Language)
-- 🤖 LLM Applications & AI Engineering
-- 🧠 RAG (Retrieval Augmented Generation)
-- 🔗 LangChain Framework
-- 🌐 Full Stack Development
-- 🗄 Database Systems
-- 📡 IoT + Raspberry Pi Systems
-
-I focus on designing systems that combine:
-
-AI + Backend Engineering + Real-World Impact
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhoomiBliss&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-### 🐍 Programming
-- Python (Primary)
-- JavaScript
-- SQL
+- 🎓 Information Science Engineering Student  
+- 🐍 Python is my primary language  
+- 🤖 Building production-grade AI systems  
+- 🧠 Specialized in RAG & LangChain  
+- 🌍 Full Stack + AI Integration Developer  
 
-### 🤖 AI / LLM Stack
-- LangChain
-- RAG Architecture
-- OpenAI API
-- Google Gemini API
-- Prompt Engineering
-- Vector Databases
+I build systems that combine:
 
-### 🌐 Full Stack
-- React.js
-- Node.js
-- Express.js
-- REST APIs
+> **AI + Backend Engineering + Real-World Impact**
 
-### 🗄 Databases
-- MongoDB
-- Supabase
-- PostgreSQL
-- Firebase
+---
 
-### 📡 IoT Systems
+## 🧠 AI Engineering Stack
+
+- 🐍 Python (Core)
+- 🔗 LangChain
+- 🧠 RAG Architecture
+- 🤖 OpenAI & Gemini APIs
+- 📊 Vector Databases
+- 🛠 Prompt Engineering
+- 🚀 LLM Application Deployment
+
+---
+
+## 🌐 Full Stack Stack
+
+- ⚛ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🔐 JWT Authentication
+- 🗄 MongoDB
+- 🐘 PostgreSQL
+- 🔥 Supabase
+- 🔥 Firebase
+
+---
+
+## 📡 IoT Systems
+
 - Raspberry Pi
-- GSM / GPS Modules
+- GSM & GPS Modules
 - Sensor Integration
+- Real-time Alert Systems
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-### 🛡 Women Safety Device (IoT + Python)
-- Raspberry Pi based safety wearable
-- GPS tracking + GSM alerts
-- Image capture during emergency
-- Cloud monitoring
-- Voice-trigger emergency activation
+### 🛡 Women Safety Device
+IoT-based emergency wearable using Raspberry Pi  
+GPS + GSM + Image Capture + Cloud Monitoring  
 
-### 🧠 Smrithi AI (RAG System)
-- Perplexity-style AI system
-- LangChain powered
-- Retrieval Augmented Generation
-- Knowledge-grounded responses
+### 🧠 Smrithi AI
+Perplexity-style RAG system using LangChain  
+Knowledge-grounded AI responses  
 
 ### 🤖 AI Doctor Assistant
-- LLM powered healthcare assistant
-- Conversational AI system
+LLM-powered conversational healthcare assistant  
 
 ### 🖱 Virtual Mouse
-- Computer vision based gesture control
-- OpenCV + Python
+Computer Vision based hand gesture control  
 
 ---
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight" height="165"/>
@@ -90,17 +82,13 @@ AI + Backend Engineering + Real-World Impact
 
 ---
 
-# 🎯 Current Focus
+## 📈 Contribution Graph
 
-- Advanced AI Engineering
-- Production LLM Systems
-- LangChain Applications
-- Backend Architecture
-- Scalable AI Deployment
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhoomiBliss&theme=tokyo-night)
 
 ---
 
-# 🧬 Developer Philosophy
+## 🧬 Developer Philosophy
 
 ```python
 class AIEngineer:
