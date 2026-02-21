@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Quick Bit About Me
-- 🎓 **Education:** Information Science Engineering Student.
+- 🎓 **Education:** Information Science Engineering Student at SDMIT.
 - 🐍 **Focus:** Python is my native tongue; building production-grade AI is my mission.
 - 🧠 **Specialization:** Advanced RAG (Retrieval Augmented Generation) & LangChain workflows.
 - 🌍 **Goal:** To engineer AI systems that solve real-world safety and accessibility problems.
@@ -33,22 +33,23 @@
 
 ### 🔥 Featured Engineering Works
 
-- **🛡️ Women Safety Device (IoT + AI):** A wearable safety band built on **Raspberry Pi**. Integrates **GPS/GSM** for real-time tracking, automatic **Image Capture** for evidence, and **Gemini AI** for voice-triggered emergency alerts.
-- **🧠 Smrithi AI (RAG Platform):** A Perplexity-style AI Answer Engine. Uses **LangChain** and **Vector Databases** to provide context-aware, referenced answers from Indic knowledge texts.
+- **🛡️ Women Safety Device (IoT + AI):** A wearable safety band built on **Raspberry Pi**. Integrates **GPS/GSM** for real-time tracking, automatic **Image Capture** for evidence, and **Gemini AI** for voice-triggered alerts.
+- **🧠 Smrithi AI (RAG Platform):** A Perplexity-style AI Answer Engine for Indhic AI. Uses **LangChain** and **Vector Databases** to provide referenced answers from Indic knowledge texts.
 - **🤖 AI Doctor Assistant:** A conversational LLM agent designed for preliminary healthcare diagnostics and real-time medical consultation.
-- **🖱️ Virtual Mouse:** Utilizing **OpenCV** and Python to control desktop navigation through AI-powered hand gesture recognition.
+- **🖱️ Virtual Mouse:** Utilizing **OpenCV** and Python to control desktop navigation through hand gesture recognition.
 
 ---
 
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="195" />
 </p>
 
+### 🐍 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhoomiBliss&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhoomiBliss/BhoomiBliss/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
