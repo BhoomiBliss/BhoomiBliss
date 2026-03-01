@@ -43,7 +43,7 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" /> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhoomiBliss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhoomiBliss&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="195" />
 </p>
 
