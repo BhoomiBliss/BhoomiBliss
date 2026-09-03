@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/BhoomiBliss?label=FOLLOW&style=social" alt="Follow" />
 </p>
 
-<h3 align="center">🐍 Python-First AI Engineer | 🤖 RAG & LLM Architect | 🌐 Full Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | AI Engineering | AI Agents | RAG | React | Node.js</h3>
 
 <p align="center">
   <i>Passionate about bridging the gap between hardware intelligence and cloud-scale AI.</i>
