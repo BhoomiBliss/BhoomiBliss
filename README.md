@@ -1,4 +1,4 @@
-# Hi, I'm Bhoomika S. Shetty
+# Hi, I'm Bhoomika S Shetty
 
 **Python-focused software developer building applied AI products.** I work across backend APIs, document workflows, OCR/NLP, AI agents, and full-stack applications.
 
