@@ -1,26 +1,26 @@
 # Hi, I'm Bhoomika S Shetty
 
-**Python-focused software developer building applied AI products.** I work across backend APIs, document workflows, OCR/NLP, AI agents, and full-stack applications.
+**Python-focused software developer building practical AI-enabled products.** My work spans Python development, backend APIs, document workflows, OCR/NLP, retrieval, and AI-agent systems. I also bring full-stack experience when a product needs a usable interface and end-to-end delivery.
 
-I enjoy turning practical problems into tools with clear workflows, useful outputs, and interfaces people can work with. Full-stack development supports my Python and applied-AI work.
+I'm currently exploring **Python/backend and applied AI engineering opportunities**.
 
 ## Focus
 
-- **Python development:** APIs, data workflows, and application backends
+- **Python and APIs:** application backends, integrations, and data workflows
 - **Applied AI:** document processing, OCR, NLP, retrieval, and agent workflows
-- **Product delivery:** connecting services, interfaces, and data into usable applications
+- **Product engineering:** connecting services, data, and interfaces into useful tools
 
 ## Selected projects
 
-| Project | What it explores |
-| --- | --- |
-| [Smart Invoice Extractor](https://github.com/BhoomiBliss/Smart-invoice-extractor) | Document extraction and invoice-processing workflow |
-| [VirtualMouse](https://github.com/BhoomiBliss/VirtualMouse) | Python computer-vision interaction prototype |
-| [Women Safety Device](https://github.com/BhoomiBliss/Women-Safety-Device-Using-IOT-GPS-GSM-Tracker) | IoT prototype using GPS/GSM concepts |
-| [Customer Support Ticket Tracker](https://github.com/BhoomiBliss/Customer-Support-Ticket-Tracker) | Full-stack ticket-management application |
+| Project | Type | What it demonstrates |
+| --- | --- | --- |
+| [Smart Invoice Extractor](https://github.com/BhoomiBliss/Smart-invoice-extractor) | Personal prototype | Document processing workflow with a web client, API, and worker |
+| [Jyothi Restaurant Web App](https://github.com/BhoomiBliss/Restaurant-Website) · [Live demo](https://restaurant-website-umber-sigma-72.vercel.app/) | Full-stack demo | Responsive React app, NestJS API, PWA support, and Android wrapper source |
+| [Customer Support Ticket Tracker](https://github.com/BhoomiBliss/Customer-Support-Ticket-Tracker) | Full-stack demo | Ticket creation, role-aware flows, comments, filtering, and status history |
+| [Gesture-Controlled Virtual Mouse](https://github.com/BhoomiBliss/VirtualMouse) | Academic prototype | Python, OpenCV, MediaPipe, and desktop gesture input |
 
-Some repositories are learning exercises, forks, or collaborative/work projects; each project README describes its scope.
+Other repositories include learning exercises, a fork, a collaborative IoT prototype, and exploratory projects. Each README explains the project type and its current scope. I don't claim unverified accuracy, performance, or production results.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/bhoomika-s-shetty/) · [X](https://x.com/shetty_bho88234) · [GitHub](https://github.com/BhoomiBliss)
+[LinkedIn](https://www.linkedin.com/in/bhoomika-s-shetty/) · [GitHub](https://github.com/BhoomiBliss) · [X](https://x.com/shetty_bho88234)
