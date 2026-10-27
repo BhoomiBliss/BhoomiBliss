@@ -15,7 +15,7 @@ I'm currently exploring **Python/backend and applied AI engineering opportunitie
 | Project | Type | What it demonstrates |
 | --- | --- | --- |
 | [Smart Invoice Extractor](https://github.com/BhoomiBliss/Smart-invoice-extractor) | Personal prototype | Document processing workflow with a web client, API, and worker |
-| [Jyothi Restaurant Web App](https://github.com/BhoomiBliss/Restaurant-Website) · [Live demo](https://restaurant-website-umber-sigma-72.vercel.app/) | Full-stack demo | Responsive React app, NestJS API, PWA support, and Android wrapper source |
+| [Jyothi Restaurant Web App](https://github.com/BhoomiBliss/Restaurant-Website/tree/feat/nestjs-pwa-android) · [Live demo](https://restaurant-website-umber-sigma-72.vercel.app/) · [Feature PR](https://github.com/BhoomiBliss/Restaurant-Website/pull/1) | Full-stack demo · feature branch under review | React app with NestJS API, PWA support, and Android wrapper source |
 | [Customer Support Ticket Tracker](https://github.com/BhoomiBliss/Customer-Support-Ticket-Tracker) | Full-stack demo | Ticket creation, role-aware flows, comments, filtering, and status history |
 | [Gesture-Controlled Virtual Mouse](https://github.com/BhoomiBliss/VirtualMouse) | Academic prototype | Python, OpenCV, MediaPipe, and desktop gesture input |
 
